@@ -14,13 +14,13 @@
 
 ## Connect with Me
 - **Discord Server:** [Join here](https://discord.com/servers/ghostbyte-r-ttu-1249113251006906430)
-- **Instagram:** [@lfiharv](https://www.instagram.com/lfiharv)
+- **Instagram:** [@lfiharv](https://www.instagram.com/lfilharv)
 
 ---
 
 ## Availability
 - Open for programming requests and collaborative red-team engagements
-- Contact via Discord (@lfiharv) or Instagram (@lfiharv)
+- Contact via Discord (@lfilharv) or Instagram (@lfilharv)
 - ![Snake animation](harv.svg)
 
 ---
