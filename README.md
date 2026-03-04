@@ -20,7 +20,7 @@
 
 ## Availability
 - Open for programming requests and collaborative red-team engagements
-- Contact via Discord (@lfilharv) or Instagram (@lfilharv)
+- Contact via Discord (@NullEssa) or Instagram (@NullEssa)
 - ![Snake animation](harv.svg)
 
 ---
@@ -28,6 +28,6 @@
 <p align="left">
   <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lfilharv&theme=radical" alt="Streak Stats"/>
   <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lfilharv&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages"/>
+    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=NullEssa&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages"/>
   </a>
 </p>
